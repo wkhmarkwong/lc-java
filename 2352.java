@@ -28,3 +28,14 @@ class Solution {
     }
 
 }
+
+/*
+Since number is hashable, you can do it better by hashing the matrix.
+Complexity
+
+Time complexity:
+O(n^2) -> double loops
+
+Space complexity:
+O(n^2) -> dict to store all tuples
+ */
