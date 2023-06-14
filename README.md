@@ -1,4 +1,5 @@
-# lc-java
-Do algorithm, data structure question using Java
+# Welcome to my leetcode journey in Java
 
-You may visit each Java file, copy the problem statement link. And then copy the solution to get a pass.
+I do algorithm, data structure question in Leetcode using Java.
+
+Please visit branches of this repo. They are categorized by year.
